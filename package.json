@@ -1,0 +1,15 @@
+{
+  "name": "docker",
+  "version": "1.0.0",
+  "description": "In this lab, we will create a simple Node.js project, containerize it using Docker, and push the Docker image to Docker Hub. This step-by-step guide will walk you through the process of building, running, and managing Docker images for a Node.js app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
