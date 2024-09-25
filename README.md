@@ -135,3 +135,5 @@ In the root directory of the project (my-node-app), create a file named Dockerfi
 ### That's it! 
 
 You’ve now created a Node.js app, containerized it with Docker, and pushed the image to Docker Hub.
+
+![alt text](image.png)
